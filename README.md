@@ -2,6 +2,25 @@
 This project involves using ruby to create a telegram_bot. A unique API was generated from telegram Botfather which is used to interact with the bot.
 This telegram_bot was created to list out websites that could be helpful for learning how to code online.
 
+# How To Install
+- Download telegram app for pc , if you donot have a registered telegram account. you can register with your personal details and phone number.
+- search for Botfather to get your unique API, follow this steps to get this done;
+      send "/start" and the Botfather will reply with bunch of command.
+      reply with "/newbot" to creat a new bot
+      select a name to call the bot which is unique
+      choose a username to call the bot which must end with the word 'bot'. for example, klaus154_bot.
+      once this is done, a unique API token will be sent to you which will be used to interact with the bot from the terminal.
+- Copy the generated API token, make sure its safe to prevent others having access to controlling your bot.
+
+## My Bot
+I built a telegram_bot which i called "klaus154_bot" which was inspired by my nick name.
+- Follow these instructions on how to use klaus154_bot
+   search on your telegram app "klaus154_bot"
+   open the chat and type the '/start' command, the bot will respond with some set of instructions to follow which makes it so easy to use the bot.
+   type '/link' command which gives links of places to learn how to code
+   type '/mopre' command for more links on where to learn how to code.
+   if any other command is entered, the bot tells you its cant handle that but gives you a clue of command it can handle.
+   
 # Getting Started
 
 To get your own copy of our project simply clone the repository to your local machine.
