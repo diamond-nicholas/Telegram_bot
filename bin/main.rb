@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
 
-require_relative '../lib/bot.rb'
+require_relative '../lib/bot'
 puts "bot is now active...i'm  all yours"
 Nicholas.new
