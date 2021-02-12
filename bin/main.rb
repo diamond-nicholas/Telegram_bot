@@ -2,4 +2,4 @@
 
 require_relative '../lib/bot.rb'
 puts 'bot is now active...i am all yours'
-Bot.new
+Nicholas.new

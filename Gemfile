@@ -1,2 +1,2 @@
-source 'https://rubygems.org'
-gem 'telegram_bot
+# source 'https://rubygems.org'
+gem 'telegram-bot-ruby'
