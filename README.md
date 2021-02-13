@@ -12,7 +12,9 @@ s![screenshot](img/my_bot.png)
       select a name to call the bot which is unique
       choose a username to call the bot which must end with the word 'bot'. for example, klaus154_bot.
       once this is done, a unique API token will be sent to you which will be used to interact with the bot from the terminal.
-- Copy the generated API token, make sure its safe to prevent others having access to controlling your bot.
+- Open your terminal and type 'touch Gemfile' and put this line of code in the file "gem 'telegram-bot-ruby'"
+- In your terminal type 'bundle install' to install the gem required to build the bot
+- Copy the generated API token to the token.rb file, make sure its safe to prevent others having access to controlling your bot.
 
 ## My Bot
 I built a telegram_bot which i called "klaus154_bot" which was inspired by my nick name.
@@ -55,7 +57,7 @@ After all process of getting started;
 
 - Telegram API
 
-
+- Ruby gem
 
 ## AUTHORS
 👤 **Diamond Nicholas**
