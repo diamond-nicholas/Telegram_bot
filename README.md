@@ -2,6 +2,8 @@
 This project involves using ruby to create a telegram_bot. A unique API was generated from telegram Botfather which is used to interact with the bot.
 This telegram_bot was created to list out websites that could be helpful for learning how to code online.
 
+s![screenshot](img/my_bot.png)
+
 # How To Install
 - Download telegram app for pc , if you donot have a registered telegram account. you can register with your personal details and phone number.
 - search for Botfather to get your unique API, follow this steps to get this done;
@@ -19,8 +21,11 @@ I built a telegram_bot which i called "klaus154_bot" which was inspired by my ni
    open the chat and type the '/start' command, the bot will respond with some set of instructions to follow which makes it so easy to use the bot.
    type '/link' command which gives links of places to learn how to code
    type '/mopre' command for more links on where to learn how to code.
-   if any other command is entered, the bot tells you its cant handle that but gives you a clue of command it can handle.
-   
+   if any other command is entered, the bot tells you, I cant handle that, but gives you a clue of command it can handle.
+- This bot was created as an inspiration to help people interested in learning how to code but don't know where to start. I also encountered the 
+   same challenges when I started learning how to code. But with this bot people will know about platforms that can guide them on how to code.The bot creates lists of websites people can learn how to code and also gives a summary of what to expect from those websites.
+- I gave the class the name "Nicholas" with the intention to change it to the name of the bot "klaus154_bot".
+
 # Getting Started
 
 To get your own copy of our project simply clone the repository to your local machine.
@@ -51,8 +56,6 @@ After all process of getting started;
 - Telegram API
 
 
-## LIVE DEMO
-https://diamond-nicholas.github.io/Telegram_bot/
 
 ## AUTHORS
 👤 **Diamond Nicholas**

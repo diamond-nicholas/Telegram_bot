@@ -1,7 +1,7 @@
 require 'telegram/bot'
 require_relative '../token'
 
-class klaus_bot
+class Klaus_bot
   def initialize
     Telegram::Bot::Client.run(TOKEN) do |bot|
       bot.listen do |message|
