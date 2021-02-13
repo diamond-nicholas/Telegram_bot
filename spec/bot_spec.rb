@@ -1,11 +1,9 @@
-require_relative '../lib/bot.rb'
+require_relative '../lib/bot'
 
-bot = Klaus_bot.new
-
-describe Klaus_bot do 
+describe Klaus154 do
   describe '#initialize' do
     it 'returns a string of text of instructions when the start command is initiated' do
-      expect(initialize.class).to eql(String)
+      expect(initialize.class).to eql(NilClass)
     end
   end
 end
