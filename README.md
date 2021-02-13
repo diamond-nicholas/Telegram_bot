@@ -2,7 +2,7 @@
 This project involves using ruby to create a telegram_bot. A unique API was generated from telegram Botfather which is used to interact with the bot.
 This telegram_bot was created to list out websites that could be helpful for learning how to code online.
 
-s![screenshot](img/my_bot.png)
+![screenshot](img/my_bot.png)
 
 # How To Install
 - Download telegram app for pc , if you donot have a registered telegram account. you can register with your personal details and phone number.
@@ -47,6 +47,7 @@ Step 3: Run the program from command line, then open it in a text editor
 After all process of getting started;
 - Type "bin/main.rb" in the terminal to get the bot running. A prompt "bot is now active...i'm  all yours" will be displayed to show that the bot is now active.
 - Type "/start" to begin 
+- To stop the bot from running, open the terminal and type 'ctrl+c' on windows
 
 ## BUILT WITH
 - Ruby
