@@ -19,4 +19,10 @@ describe Links do
       expect(Links.new.link).to be_a String
     end
   end
+
+  describe 'more' do
+    it 'return a string' do 
+      expect(Links.new.more).to be_a String
+    end
+  end
 end
