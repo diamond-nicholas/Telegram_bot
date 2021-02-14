@@ -1,4 +1,3 @@
-require_relative './bot'
 # {message.from.first_name}
 class Links
   def web_link
