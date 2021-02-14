@@ -1,4 +1,3 @@
-
 class Links
   def web_link
     ['freecodecamp.org', 'udemy.com', 'codecademy.com', 'Educative.io', 'Pluralsight.com']
