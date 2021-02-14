@@ -1,11 +1,11 @@
-# {message.from.first_name}
+
 class Links
   def web_link
     ['freecodecamp.org', 'udemy.com', 'codecademy.com', 'Educative.io', 'Pluralsight.com']
   end
 
   def start
-    "Hey , I'm a bot. I will make a list of websites to learn coding. Try the /link command. For more links use the
+    "Hello, I'm a bot. I will make a list of websites to learn coding. Try the /link command. For more links use the
     /more command"
   end
 
