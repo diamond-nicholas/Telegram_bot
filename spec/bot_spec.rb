@@ -13,4 +13,10 @@ describe Links do
       expect(Links.new.start).to be_a String
     end
   end
+
+  describe 'link' do
+    it 'return a string' do 
+      expect(Links.new.link).to be_a String
+    end
+  end
 end
